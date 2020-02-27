@@ -1,19 +1,13 @@
 # docker-ionic
 
-Docker image include Android SDK for building Ionic 5 framework application.
+Docker image include Android SDK, Java and environment for building Ionic 5 framework application.
 
-[![Docker Build Status](https://img.shields.io/docker/build/kusumoto/docker-ionic-android-sdk.svg)](https://hub.docker.com/r/kusumoto/docker-ionic-android-sdk/)
+The construction of the boilerplate is the same created automatically with the command `ionic start [appName]` and choosing React project
 
 ## About this project
 
 The initial focus is on the Docker.
 Created to simplify and automate the installation of the packages that comprise the operation of the build and the execution of the project. Excluding any problems with creating an environment for Ionic 5.
-
-The construction of the boilerplate is the same created automatically with the command:
-
-```
-ionic start [appName]
-```
 
 ## Commands
 
